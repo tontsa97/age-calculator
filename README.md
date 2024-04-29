@@ -20,7 +20,7 @@ This is a simple and stylish web application that allows users to input their bi
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/tontsa97/age-calculator.git](https://github.com/tontsa97/age-calculator.git)
+   git clone (https://github.com/tontsa97/age-calculator.git)
 Open the Application:
 
 Open the index.html file in your web browser to launch the age calculator.
